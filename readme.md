@@ -1,4 +1,4 @@
-# JardimApp - o aplicativo do jardineiro
+# JardimApp - O aplicativo do jardineiro
 
 **Python, Html, CSS, Javascript, Django, SQLite:**
 
